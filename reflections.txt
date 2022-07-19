@@ -1,3 +1,11 @@
 Reflections
 
+I would like to begin by saying that creating this repository was harder than expected. With that mentioned, I was able to
+get a grasp about the very complex and abstract world of programming. Sometimes things do go according to plan, sometimes not. 
+This experience might extend to AI itself. Initially, I perceived AIs in a very deterministic way: an action taken by a machine in order
+to receive a clear and expected outcome. Now, it makes much more sense to analyze them from a real-world perspective. Many possible
+factors will eventually affect the machine while it interprets its sensors, processes data, and decides to take an action. 
+As a consequence, a AI researcher must account for that (or not, sometimes mistakes coincidently solve the problem).
+
+
 
